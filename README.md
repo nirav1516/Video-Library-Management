@@ -1,16 +1,11 @@
 
 
 # VideoLibrary
-
-
+- Designed and developed an application that will implement the functions of a simple Video Library Management system.
+- Implemented different performance tuning techniques : Database connection pooling, SQL and object caching using Redis, Data denormalization, Prepared statements.
 
 ## Usage
-
-
-
-## Developing
-
-
+Java, HTML, CSS, BootStrap, NodeJS, MySQL and Redis, JMeter and Mocha.
 
 ### Tools
 
